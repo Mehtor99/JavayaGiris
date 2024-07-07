@@ -1,4 +1,4 @@
-package org.mehtor;
+package org.mehtor._00_Degiskenler;
 
 import java.util.Scanner;
 

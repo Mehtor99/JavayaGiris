@@ -1,6 +1,6 @@
-package org.mehtor;
+package org.mehtor.Ornekler;
 
-public class Ornekler {
+public class Ornek03 {
     public static void main(String[] args) {
         byte b;
         int i=257;

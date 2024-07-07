@@ -1,4 +1,6 @@
-package org.mehtor;
+package org.mehtor.Ornekler;
+
+import java.util.Scanner;
 
 public class SlaytOrnek {
     public static void main(String[] args) {
@@ -12,5 +14,11 @@ public class SlaytOrnek {
         //long r = p - q;  //Error; cannot convert from float to long  //hata: floattan long a donusum yapilamiyor.
         float r = p- q;
         System.out.println("Fark: "+ r);
+////////////////////////////////////////////////////////////////
+        int a;
+        System.out.println("a sayisini giriniz: ");
+        Scanner input= new Scanner(System.in);
+        a = input.nextInt();
+        System.out.println("girdiğiniz sayi"+a);
     }
 }

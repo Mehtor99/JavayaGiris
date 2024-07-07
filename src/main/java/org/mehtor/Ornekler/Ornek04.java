@@ -1,4 +1,4 @@
-package org.mehtor;
+package org.mehtor.Ornekler;
 
 public class Ornek04 {public static void main(String[] args){
 
